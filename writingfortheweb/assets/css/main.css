@@ -3259,6 +3259,10 @@ input, select, textarea {
 					color: #ffffff;
 				}
 
+				.content p {
+	     				color: black;
+				}
+
                 #wrapper section > header h2 {
 					margin: 0 0 5rem 0;
 				}
